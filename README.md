@@ -26,7 +26,7 @@ This project analyzes personal financial data to create a budget and track spend
 - Dashboard Layout
 - Created Reports
 
-## Don't Forget to follow me on  <a href= "https://www.linkedin.com/in/shubham-dabi-9175992b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzwKecuw4RcqtZJIfbfkl%2Fg%3D%3D">Linkdin</a>
+## Don't Forget to follow me on  <a href= "https://www.linkedin.com/in/shubham-dabi-9175992b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzwKecuw4RcqtZJIfbfkl%2Fg%3D%3D">Linkedin</a>
 
 # Finally, I would like to extend my gratitude to everyone who sparked the ideas behind this project. The completion of this report is a testament to the collaborative spirit. Thank you for your support and engagement.
 
